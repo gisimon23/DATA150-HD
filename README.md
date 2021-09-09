@@ -4,7 +4,7 @@ Hi, my name is Gianna Simon. I am a transfer student. I am majoring in Psycholog
 # Assignments
 ### Informal Response
 
-1. Josh Blumenstock [Humber Data Sciene] 
+1. Josh Blumenstock [Humbler Data Science](blumenstock.md) 
 
 ### Formal Assignments
 
