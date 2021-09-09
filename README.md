@@ -5,8 +5,8 @@ Hi, my name is Gianna Simon. I am a transfer student majoring in psychology and 
 
 ## Assignments
 ### Informal
-1. Sept. 7th - Joshua Blumenstock - [Humbler Data Science](blumenstock.html)
-2. Sept. 9th - Hans Rosling - [The Best Stats Ever](rosling.html) 
+1. Sept. 7th - Joshua Blumenstock - [Humbler Data Science](blumenstock.md)
+2. Sept. 9th - Hans Rosling - [The Best Stats Ever](rosling.md) 
 
 ### Formal
 1. Annotated Bibliography 
