@@ -1,7 +1,7 @@
 # DATA150-HD
 
 # Introduction
-Hi, my name is Gianna Simon. I am a transfer student majoring in psychology and minoring in kinesiology & health sciences.
+Hi, my name is Gianna Simon. I am a transfer student from New Jersey majoring in psychology and minoring in kinesiology & health sciences. I am taking this class to fufill my Coll 150 requirement and also because I find the topic of human development to be super interesting. 
 
 ## Assignments
 ### Informal
