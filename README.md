@@ -7,7 +7,7 @@ Hi, my name is Gianna Simon. I am a transfer student from New Jersey majoring in
 ### Informal
 1. Sept. 7th - Joshua Blumenstock - [Humbler Data Science](blumenstock.md)
 2. Sept. 9th - Hans Rosling - [The Best Stats Ever](rosling.md) 
-3. Sept. 20th - Owen Barter - [Development and Complexity](barter.md)
+3. Sept. 20th - Owen Barder - [Development and Complexity](barder.md)
 
 ### Formal
 1. Annotated Bibliography 
