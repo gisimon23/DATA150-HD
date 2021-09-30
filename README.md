@@ -10,6 +10,7 @@ Hi, my name is Gianna Simon. I am a transfer student from New Jersey majoring in
 3. Sept. 20th - Owen Barder - [Development and Complexity](barder.md)
 4. Sept. 23rd - In class essay - [Human Development Insight](insight.md)
 5. Sept. 28th - Personal response - [Introduction to Self](simon.md)
+6. Sept. 30th - Gapminder - [Gapminder Data Response](gapminder.md)
 
 ### Formal
 1. Annotated Bibliography 
