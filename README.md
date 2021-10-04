@@ -14,7 +14,7 @@ Hi, my name is Gianna Simon. I am a transfer student from New Jersey majoring in
 6. Sept. 30th - Gapminder - [Gapminder Data Response](gapminder.md)
 
 ### Formal
-1. Annotated Bibliography 
+1. Annotated Bibliography [Annotated Bibliography](annotatedbib.md)
 2. Literature Review
 3. Assignment 3
 4. Results 
