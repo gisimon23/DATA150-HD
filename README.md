@@ -13,6 +13,7 @@ Hi, my name is Gianna Simon. I am a transfer student from New Jersey majoring in
 5. Sept. 28th - Personal response - [Introduction to Self](simon.md)
 6. Sept. 30th - Gapminder - [Gapminder Data Response](gapminder.md)
 7. Oct. 7th - Max Roser -[Our World in Data Response](roser.md)
+8. Oct. 12th - James T. Areddy - [Hidden Debt](areddy.md)
 
 ### Formal
 1. Assignment 1 [Annotated Bibliography](annotatedbib.md)
