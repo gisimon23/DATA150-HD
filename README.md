@@ -17,7 +17,7 @@ Hi, my name is Gianna Simon. I am a transfer student from New Jersey majoring in
 
 ### Formal
 1. Assignment 1 [Annotated Bibliography](annotatedbib.md)
-2. Assignment 2
+2. Assignment 2 [Literature Review](litreview.md)
 3. Assignment 3
 4. Assignment 4a
 5. Assignment 4b
