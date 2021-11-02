@@ -16,6 +16,7 @@ Hi, my name is Gianna Simon. I am a transfer student from New Jersey majoring in
 8. Oct. 12th - James T. Areddy - [Hidden Debt](areddy.md)
 9. Oct. 21st - Peter Diamandis - [Safety & Reduction in Violence](diamandis.md)
 10. Oct. 28th - Jeff Hale- [What is Data Science](hale.md)
+11. Nov. 2nd - HDI - [Human Development Index](hdi.md)
 
 ### Formal
 1. Assignment 1 [Annotated Bibliography](annotatedbib.md)
