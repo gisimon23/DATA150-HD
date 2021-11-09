@@ -18,6 +18,7 @@ Hi, my name is Gianna Simon. I am a transfer student from New Jersey majoring in
 10. Oct. 28th - Jeff Hale- [What is Data Science](hale.md)
 11. Nov. 2nd - HDI - [Human Development Index](hdi.md)
 12. Nov. 4th - Future Topic - [Topic to discuss](topic.md)
+13. Nov. 9th - Facial Recognition - [Privacy and Technology](recognition.md)
 
 ### Formal
 1. Assignment 1 [Annotated Bibliography](annotatedbib.md)
