@@ -27,4 +27,4 @@ Hi, my name is Gianna Simon. I am a transfer student from New Jersey majoring in
 2. Assignment 2 [Literature Review](litreview.md)
 3. Assignment 3 [Methodological Investigation](methods.md)
 4. Assignment 4 [Abstract and Presentation](pres.md)
-5. Final 
+5. Final [Disaster Management; Improvement Through Data Science in China](final.md)
